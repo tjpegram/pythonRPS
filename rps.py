@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import random
 
 def rpsAi(): #Method for chosing the ai play
